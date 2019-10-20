@@ -27,7 +27,7 @@ export default class App extends Component {
       <div className="App">
         <header className="App-header">
           <p>
-            NoCodeTech October cohort rules!
+            Rainy Seattle!
           </p>
           <form onSubmit={this.handleSubmit}>
             <label htmlFor="name">Enter your name: </label>
